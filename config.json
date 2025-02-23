@@ -1,0 +1,16 @@
+{
+    "server_name": "drage_loading",
+    "music_file": "music.mp3",
+    "logo_file": "logo.png",
+    "gradient_start": "#FF0000",
+    "gradient_end": "#FF8888",
+    "background_images_display": true,
+    "background_images": [
+        "https://pbs.twimg.com/media/GBujle4WwAAu02U?format=jpg&name=4096x4096",
+        "https://imag.malavida.com/mvimgbig/download-fs/fivem-34014-6.jpg",
+        "https://www.gta-multiplayer.cz/screenshots/original/147033.jpg",
+        "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2021/04/gta-5-fivem-player-count.jpg",
+        "https://www.gta-multiplayer.cz/screenshots/original/147123.jpg",
+        "https://www.rockstarmag.fr/wp-content/uploads/2023/10/FiveM.jpg"
+    ]
+}

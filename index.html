@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Server Loading Screen</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="loading-container">
+        <div class="logo">
+            <h1></h1>
+        </div>
+        
+        <div class="loading-bar">
+            <div class="progress"></div>
+        </div>
+        
+        <div class="status">
+            <p id="status-text">Loading...</p>
+        </div>
+
+        <div class="music-controls">
+            <button id="toggleMusic">🔊</button>
+            <input type="range" id="volumeSlider" min="0" max="100" value="50">
+        </div>
+    </div>
+    <script src="scripts.js"></script>
+</body>
+</html> 
